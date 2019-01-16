@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HDFS/CD.iml" filepath="$PROJECT_DIR$/HDFS/CD.iml" />
       <module fileurl="file://$PROJECT_DIR$/HDFS/HDFS.iml" filepath="$PROJECT_DIR$/HDFS/HDFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/HDFSIO/HDFSIO.iml" filepath="$PROJECT_DIR$/HDFSIO/HDFSIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fellows.iml" filepath="$PROJECT_DIR$/fellows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapReduce/MapReduce.iml" filepath="$PROJECT_DIR$/MapReduce/MapReduce.iml" />
     </modules>
   </component>
 </project>
